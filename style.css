@@ -4187,7 +4187,7 @@ li a:hover,
 }
 
 .testimonial-panel .testimonial--body p {
-	color: #999999;
+	color: #000;
 	font-family: 'Merriweather', serif;
 	font-size: 20px;
 	font-style: italic;
@@ -4206,7 +4206,7 @@ li a:hover,
 }
 
 .testimonial-panel .testimonial--meta p {
-	color: #999999;
+	color: #000;
 	font-size: 12px;
 	font-weight: 400;
 	line-height: 1;
@@ -4369,7 +4369,7 @@ li a:hover,
 }
 
 .banner p {
-	color: #999999;
+	color: #000;
 	font-family: Ubuntu;
 	font-size: 18px;
 	font-weight: 400;
@@ -4491,7 +4491,7 @@ li a:hover,
 }
 
 .footer--copyright {
-	color: #999999;
+	color: #000;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 12px;
 	font-weight: 400;
@@ -4653,7 +4653,7 @@ li a:hover,
 }
 
 .slider-navs .owl-controls .owl-nav [class*=owl-]:hover {
-	color: #999999;
+	color: #000;
 	background-color: #ffffff;
 }
 
