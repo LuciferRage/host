@@ -1860,7 +1860,7 @@ body {
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 13px;
 	font-weight: 400;
-	color: #aaaaaa;
+	color: #000;
 	line-height: 1.5;
 	margin: 0;
 }
@@ -1997,7 +1997,7 @@ h6 {
 }
 
 p {
-	color: #aaaaaa;
+	color: #000;
 	font-size: 13px;
 	font-weight: 400;
 	line-height: 22px;
